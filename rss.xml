@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Life LDC]]></title>
         <description><![CDATA[Life LDC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/life-ldc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 17:41:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jan 2016 19:49:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/life-ldc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[2016 Stash Resolutions Anyone?]]></title>
             <description><![CDATA[<article><h1>2016 Stash Resolutions Anyone?</h1><p>As a subscriber, you get your Rowan magazine earlier than the shops....if you avoid the "spoiler" photos that start to appear, you get the joy of opening and seeing this... (Hear the squeaky toy in the background...that's Daisy helping :) ) Did you see the hesitation?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2be646e4d37b6a3548d68ce0b38a6cccc432b110.jpg"></article>]]></description>
             <link>http://lifelackadaisical.blogspot.ca/2016/01/new-year-stash-resolutions-anyone.html</link>
             <guid isPermaLink="false">a2ffe61d-4606-4df1-a20c-b9b6cc152d33</guid>
-            <pubDate>Sun, 17 Jan 2016 17:41:02 GMT</pubDate>
+            <pubDate>Sun, 17 Jan 2016 19:49:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
