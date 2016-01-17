@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://lifelackadaisical.blogspot.ca/2016/01/new-year-stash-resolutions-anyone.html'
 title: 2016 Stash Resolutions Anyone?
-datePublished: '2016-01-17T17:41:02.323Z'
-dateModified: '2016-01-17T17:15:25.986Z'
+datePublished: '2016-01-17T19:49:44.952Z'
+dateModified: '2016-01-17T17:41:02.323Z'
 sourcePath: _posts/2016-01-17-2016-stash-resolutions-anyone.md
 published: true
 inFeed: true
