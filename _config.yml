@@ -1,28 +1,40 @@
 name: Life LDC
-favicon: null
-layout_spectrum: 0.03535182005725801
-typography_spectrum: 0.9828603216446936
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.6118341053370386
-  lightness: 0.2740595848299563
-  saturation: 0.8469918076880276
-  rhythmicContrast: 0.030812761979177594
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#76655D'
+    - '#FFFFFC'
+    - '#1E1D18'
+    - '#D0D8C5'
+    - '#B4E1FA'
+  rhythmicContrast: 1
+typography_spectrum: 0.9828603216446936
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.2158516
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
