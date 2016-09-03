@@ -1,40 +1,40 @@
-favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 1
-  brandStrength: 0
-  lightness: 0.6037099
+  saturation: 0.4915683
+  brandStrength: 1
+  lightness: 0.505059
   brandColors:
     - '#FFFFFF'
-    - '#783A2E'
-    - '#161616'
-    - '#808080'
-    - '#4CD966'
-  rhythmicContrast: 0.4426644
-typography_spectrum: 0.9828603216446936
-layout_spectrum: 0.2158516
+    - '#353535'
+    - '#B7B5B6'
+    - '#857365'
+    - '#813734'
+  rhythmicContrast: 0
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 name: Life LDC
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.5168634
+layout_spectrum: 0.6728499
